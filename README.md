@@ -21,9 +21,9 @@
 
 ### ⚡ Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=admin360bug)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admin360bug&layout=compact&theme=buefy&hide_border=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">(https://github-readme-stats.vercel.app/api?username=admin360bug)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admin360bug&layout=compact&theme=buefy&hide_border=true" />
 
 
 <!--
