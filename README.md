@@ -1,6 +1,6 @@
 ### 😄 About 
 
-<img align="right" alt="png" src=".\img\me.png" />
+<img align="right" alt="png" src="https://github.com/admin360bug/admin360bug/blob/main/me.png" />
 
 - 曾就职于明略科技集团  担任 高级工程师 
 - 现就职于赛宁网安  天虞实验室  安全研究员/安全课程讲师
